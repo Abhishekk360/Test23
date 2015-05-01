@@ -6,6 +6,7 @@ namespace sdfrgrgrtgtegggte
 	{
 		public gästgiveri ()
 		{
+			Console.WriteLine ("hello");
 		}
 	}
 }
